@@ -4,6 +4,7 @@
 
 Learn how to perform object measurement using OpenCV and Python. We will use an A4 paper as our guide and find the width and height of objects placed in this region.
 
+![Thumbnail](https://user-images.githubusercontent.com/76698487/118372629-53e0d280-b5d0-11eb-8d24-bf706aaf7e60.gif)
 
 
 
